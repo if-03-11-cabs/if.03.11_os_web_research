@@ -19,4 +19,4 @@ Possible (recommended) sources:
 - Wikipedia (German AND English version, because of more info)
 - Website of OS / OS manufacturer
 
-Write the result of your research into a markdown formatted file
+Write the result of your research reasonably structured into a markdown formatted file and push it to your repo.
